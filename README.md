@@ -7,11 +7,6 @@ Introducing Tamaghosty! Having grown up (and been resurrected), you now know tha
 
 ## Demo Video:
 
-
-## Feature Stills:
-
-
-
 ## Inspiration:  
 I was inspired to create this project after reading through the Kiroween Hackathon Submission guidelines. As this was my first Hackathon (and first solo Hackathon) I wanted to make sure that I fully understood the entry and judging criteria.   
 
@@ -122,6 +117,8 @@ Kiroween was designed for Kiro developers as a fun opportunity to experiment wit
 - **App Download Zone:**
   - Icon = CSS mini Tamaghosty and download arrow
   - Area to download Tamaghosty as a PWA so that your data is saved
+
+## Feature Stills:
  
 ## Tamaghosty Value:
 
