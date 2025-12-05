@@ -19,7 +19,7 @@ I decided rather arbitrarily that the Ressurection and Costume Contest categorie
 
 ### From the [Kiroween Webpage:](https://kiro.dev/blog/kiroween-2025/)  
 
-"The challenge is to build a working app using Kiro, inspired by a set of spooky categories to get you in the Halloween spirit. We wanted to keep these open-ended so you can build what excites you the most, and inspiring enough to bring out some really cool and unique app ideas:
+**"** The challenge is to build a working app using Kiro, inspired by a set of spooky categories to get you in the Halloween spirit. We wanted to keep these open-ended so you can build what excites you the most, and inspiring enough to bring out some really cool and unique app ideas:
 - **Resurrection:** Bring your favorite dead technology back to life. Reimagine obsolete tech with today’s innovations or solving tomorrow's problems.
 - **Frankenstein:** Stitch together a chimera of technologies into one app. Bring together seemingly incompatible elements to build something unexpectedly powerful.
 - **Skeleton Crew:** Build a skeleton code template lean enough to be clear but flexible enough to support various use cases. Show us its versatility with two distinct applications from your foundation.
@@ -39,7 +39,7 @@ I decided rather arbitrarily that the Ressurection and Costume Contest categorie
   - **Steering docs:** How did you leverage steering to improve Kiro’s responses? Was there a particular strategy that made the biggest difference?
   - **MCP:** How did extending Kiro’s capabilities help you build your project? What sort of features or workflow improvements did MCP enable that otherwise would have been difficult or impossible?
  
-Kiroween was designed for Kiro developers as a fun opportunity to experiment with Kiro and leverage the full gamut of features and capabilities it offers. This is your moment to create something unforgettable. Get inspired by Kiroween’s special spooky factor, summon your ideas, and git commit to the darkness."   
+Kiroween was designed for Kiro developers as a fun opportunity to experiment with Kiro and leverage the full gamut of features and capabilities it offers. This is your moment to create something unforgettable. Get inspired by Kiroween’s special spooky factor, summon your ideas, and git commit to the darkness. **"**   
   
 
 ## Why I beleive Tamaghosty fits into three categories:
@@ -120,7 +120,7 @@ Kiroween was designed for Kiro developers as a fun opportunity to experiment wit
   - For each meal tracked Tamaghosty gets fed too!
   - Tamaghosty chews when you feed them 
 - **App Download Zone:**
-  - Icon = 
+  - Icon = CSS mini Tamaghosty and download arrow
   - Area to download Tamaghosty as a PWA so that your data is saved
  
 ## Tamaghosty Value:
