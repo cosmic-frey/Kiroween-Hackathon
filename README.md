@@ -3,10 +3,20 @@ You killed your Tamagotchi at age 8, and now...
  It's BACK!*   
 *To take care of you! (Just, try not to kill it – again ...)   
    
-Introducing Tamaghosty! Having grown up (and been resurrected), you now know that caring for each other is just as important.   
+Introducing Tamaghosty! Having grown up (and been resurrected), you now know that caring for each other is just as important.
+
+## Demo Video:
+
+
+## Feature Stills:
+
+
 
 ## Inspiration:  
-I was inspired to create this project after reading through the Kiroween Hackathon Submission guidelines. As this was my first Hackathon (and first solo Hackathon) I wanted to make sure that I fully understood the entry and judging criteria.
+I was inspired to create this project after reading through the Kiroween Hackathon Submission guidelines. As this was my first Hackathon (and first solo Hackathon) I wanted to make sure that I fully understood the entry and judging criteria.   
+
+I decided rather arbitrarily that the Ressurection and Costume Contest categories would be the most enjoyable for me, and then spent about a week agonising over what to choose. Originally I had the idea to recreate Flappy Bird but with a more spooky theme, however as I'll be attending The HackSussex GameJam soon, I decided to steer clear of anything video game related.  
+
 ### From the [Kiroween Webpage:](https://kiro.dev/blog/kiroween-2025/)  
 
 "The challenge is to build a working app using Kiro, inspired by a set of spooky categories to get you in the Halloween spirit. We wanted to keep these open-ended so you can build what excites you the most, and inspiring enough to bring out some really cool and unique app ideas:
@@ -29,9 +39,7 @@ I was inspired to create this project after reading through the Kiroween Hackath
   - **Steering docs:** How did you leverage steering to improve Kiro’s responses? Was there a particular strategy that made the biggest difference?
   - **MCP:** How did extending Kiro’s capabilities help you build your project? What sort of features or workflow improvements did MCP enable that otherwise would have been difficult or impossible?
  
-Kiroween was designed for Kiro developers as a fun opportunity to experiment with Kiro and leverage the full gamut of features and capabilities it offers. This is your moment to create something unforgettable. Get inspired by Kiroween’s special spooky factor, summon your ideas, and git commit to the darkness."  
-  
-I decided rather arbitrarily that the Ressurection and Costume Contest categories would be the most enjoyable for me, and then spent about a week agonising over what to choose. Originally I had the idea to recreate Flappy Bird but with a more spooky theme, however as I'll be attending The HackSussex GameJam soon, I decided to steer clear of anything video game related.   
+Kiroween was designed for Kiro developers as a fun opportunity to experiment with Kiro and leverage the full gamut of features and capabilities it offers. This is your moment to create something unforgettable. Get inspired by Kiroween’s special spooky factor, summon your ideas, and git commit to the darkness."   
   
 
 ## Why I beleive Tamaghosty fits into three categories:
@@ -58,17 +66,84 @@ I decided rather arbitrarily that the Ressurection and Costume Contest categorie
     - Tamaghosty Blinks!
     - Tamaghosty speaks when interacted with
 - **Study Zone:**
-  - 25, 45 and 60 minute study timers
+  - Icon = glowing CSS clock
+  - 25, 45 and 60 minute Timers and Stopwatch mode options
+  - Health bar in the corner that refreshes at 12am
   - A cute little Tamaghosty that winks!
   - The stopwatch mode records time spent studying, and Tamaghosty tells you how long this was (they're the ultimate cheerleader)
   - After stop watch/timer finishes, confetti explodes and you are congratulated!
-  - 
+  - Number of study sessions is logged in the journal
+  - Total time spent studying per day is logged in the journal
+  -  **Tamaghosty Features in Stopwatch/Timer mode:**
+     - Tamaghosty listens to music while you study (the best body-double!)
+     - Mini-tamaghosty falls asleep whilst you study (so they can't distract you)
+     - Tamaghosty is fed brains after a successful study session (to keep them full)
+     - Tamaghosty chews on the brains you feed them
+     - In stopwatch mode you can grow more mini-tamaghosty friends and feed Tamaghosty more brains!      
 - **Hydration Zone:**
+  - Icon = glowing CSS cup of water
+  - A simple hydration tracker with eight circles to symbolise eight cups of water per day
+  - The option to set hydration reminders
+  - Accurate hydration tracking down to the second!
+  - Hydration is logged in the journal
+  - For each glass of water logged Tamaghosty gets a drink too!
 - **No Stress Zone:**
+  - Icon = CSS Mindful Tamaghosty in a glowing yellow circle
+  - Guided breathing exercises with Tamaghosty (8 deep breaths in total)
+    - **Guided breathing exercises are easy to follow:**
+      - The circle expands and fills with light as Tamaghosty tells you to breathe in
+      - The circle shrinks and darkens as Tamaghosty tells you to exhale
+      - This repeats eight times and can be re-played as many times as you want
+  - Guided minfulness sessions with tamaghosty (as long as you need)
+    - **Guided mindfulness is easy to follow:**
+      - Tamaghosty is sat in a glowing orb of light
+      - Mindfulness prompts refresh every minute
+      - The minfulness session can be reset to start fresh
+      - If the device supports vibration, there will be a gentle buzz as the prompts change (which can be switched off on the device)
 - **The Journal Zone:**
+  - Icon = glowing CSS pen
+  - Journal opens to the page with todays date
+  - Journal sessions are saved from previous days, and a new page is created at 12am
+  - **Journal contents:**
+    - Tracker for number of Study Sessions
+    - Tracker for total minutes spent studying per day
+    - Tracker for Hydration
+    - Tracker for Meals
+    - Journal prompts
+    - Journalling area
+    - Option to upload scans of written journalling instead
+    - Tamaghosty tells you where to find your uploads in the Journal
 - **Meal Tracking Zone:**
-- App Download Zone
-- 
+  - Icon = glowing emoji plate (sometimes you can't beat a good old emoji)
+  - A simple meal tracker where The meal can be typed in and number of meals is tracked
+  - Meal information is saved in the journal
+  - For each meal tracked Tamaghosty gets fed too!
+  - Tamaghosty chews when you feed them 
+- **App Download Zone:**
+  - Icon = 
+  - Area to download Tamaghosty as a PWA so that your data is saved
+ 
+## Tamaghosty Value:
+
+## The Development Process, What Worked and What Did Not:
+
+
+## How I used Kiro to create Tamaghosty:  
+### Conversation structure:  
+
+### Agent hooks:   
+
+### Spec-driven development:
+
+### Steering docs:   
+
+### MCP:
+
+
+
+
+
+
 
 
 
