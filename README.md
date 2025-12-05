@@ -5,6 +5,8 @@ You killed your Tamagotchi at age 8, and now...
    
 Introducing Tamaghosty! Having grown up (and been resurrected), you now know that caring for each other is just as important.
 
+## The Link to own a Tamaghosty yourself!
+
 ## Demo Video:
 Below is my three minute demo video for the Kiroween Hackathon submission. I have also included Feature Stills below App Features.
 ## Inspiration:  
