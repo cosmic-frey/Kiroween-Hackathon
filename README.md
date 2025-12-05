@@ -119,6 +119,20 @@ Kiroween was designed for Kiro developers as a fun opportunity to experiment wit
   - Area to download Tamaghosty as a PWA so that your data is saved
 
 ## Feature Stills:
+### Home screen
+![Alt text](tamaghosty pics/tamaghosty home.png) 
+### Study Zone
+
+### Hydration Tracker
+
+
+### Stress free Zone
+
+
+### Journal
+
+
+### Meal Tracker
  
 ## Tamaghosty Value:
 As a student, I have used my fair share of Study Apps. My current favourites are Forest (growing trees) and Gizmo (a gameified flashcard app). I like that in Forest there is a reward for working (a new tree), that you can look back on all the trees you have planted, and there are sound packages you can 'buy' with coins earnt in the game. With Gizmo I like that it is gameified, as it is interactive and gives extra incentive to keep learning (unlike Quizlet and Anki, which tend to be very basic in design). Popular self-care or mindfulness apps tend to primarily exist behind subscription pay walls (such as Calm), and can be inaccessible on a student budget. The combination of a Self-Care app meets Study tool allows basic student needs to be met in one place. This combined with the nostalgia of a childhood toy will keep you coming back for more!
