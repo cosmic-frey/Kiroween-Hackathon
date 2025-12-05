@@ -120,7 +120,7 @@ Kiroween was designed for Kiro developers as a fun opportunity to experiment wit
 
 ## Feature Stills:
 ### Home screen
-![Alt text](tamaghosty pics/tamaghosty home.png) 
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20home.png) 
 ### Study Zone
 
 ### Hydration Tracker
