@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generator": "AISpriteSheetGenerator",
+    "layout": {
+      "layoutType": "strip-horizontal",
+      "rows": 1,
+      "cols": 8
+    },
+    "image": "sprite-sheet.png",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "frameCount": 8,
+    "frameSize": {
+      "w": 128,
+      "h": 1024
+    }
+  },
+  "frames": {
+    "0": {
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    },
+    "1": {
+      "x": 128,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    },
+    "2": {
+      "x": 256,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    },
+    "3": {
+      "x": 384,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    },
+    "4": {
+      "x": 512,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    },
+    "5": {
+      "x": 640,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    },
+    "6": {
+      "x": 768,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    },
+    "7": {
+      "x": 896,
+      "y": 0,
+      "w": 128,
+      "h": 1024,
+      "duration": 42
+    }
+  },
+  "animations": {
+    "default": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

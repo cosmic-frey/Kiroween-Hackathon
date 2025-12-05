@@ -1,0 +1,36 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Purple background -->
+  <rect width="512" height="512" fill="#1a0033" rx="85"/>
+  
+  <!-- Glow effect -->
+  <defs>
+    <radialGradient id="glow512" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#b794f6;stop-opacity:0.6" />
+      <stop offset="50%" style="stop-color:#7c3aed;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="200" fill="url(#glow512)"/>
+  
+  <!-- Ghost body -->
+  <ellipse cx="256" cy="270" rx="120" ry="150" fill="#ffffff"/>
+  <rect x="136" y="270" width="240" height="110" fill="#ffffff"/>
+  
+  <!-- Ghost tendrils -->
+  <path d="M 136 380 Q 156 420 176 380 Q 196 420 216 380 Q 236 420 256 380 Q 276 420 296 380 Q 316 420 336 380 Q 356 420 376 380 L 376 270 L 136 270 Z" fill="#ffffff"/>
+  
+  <!-- Purple tips on tendrils -->
+  <circle cx="156" cy="410" r="16" fill="#b794f6" opacity="0.7"/>
+  <circle cx="196" cy="410" r="16" fill="#b794f6" opacity="0.7"/>
+  <circle cx="236" cy="410" r="16" fill="#b794f6" opacity="0.7"/>
+  <circle cx="276" cy="410" r="16" fill="#b794f6" opacity="0.7"/>
+  <circle cx="316" cy="410" r="16" fill="#b794f6" opacity="0.7"/>
+  <circle cx="356" cy="410" r="16" fill="#b794f6" opacity="0.7"/>
+  
+  <!-- Eyes -->
+  <circle cx="216" cy="240" r="20" fill="#2d1b4e"/>
+  <circle cx="296" cy="240" r="20" fill="#2d1b4e"/>
+  
+  <!-- Mouth (happy smile) -->
+  <path d="M 226 280 Q 256 300 286 280" stroke="#2d1b4e" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

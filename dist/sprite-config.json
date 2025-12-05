@@ -1,0 +1,32 @@
+{
+  "spriteSheet": "/sprite sheet 1.png",
+  "frameWidth": 32,
+  "frameHeight": 32,
+  "animations": {
+    "idle": {
+      "frames": [0, 1, 2, 3],
+      "row": 0,
+      "fps": 4
+    },
+    "walk": {
+      "frames": [0, 1, 2, 3, 4, 5],
+      "row": 1,
+      "fps": 8
+    },
+    "sleep": {
+      "frames": [0, 1, 2, 3],
+      "row": 2,
+      "fps": 2
+    },
+    "eat": {
+      "frames": [0, 1, 2, 3],
+      "row": 3,
+      "fps": 6
+    },
+    "happy": {
+      "frames": [0, 1, 2, 3, 4, 5],
+      "row": 4,
+      "fps": 8
+    }
+  }
+}
